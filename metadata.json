@@ -1,0 +1,6 @@
+{
+  "name": "Depth Lockscreen",
+  "description": "Replicates the iOS lockscreen depth effect on Android using on-device machine learning segmentation and a custom WallpaperService.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
